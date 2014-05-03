@@ -1,3 +1,3 @@
 __version__ = '0.2.2'
 __author__ = "nickmilon"
-__test__ = 4 
+__test__ = 5 
